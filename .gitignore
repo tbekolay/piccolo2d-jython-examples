@@ -1,0 +1,4 @@
+build
+env
+*.class
+*.egg-info
